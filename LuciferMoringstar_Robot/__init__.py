@@ -31,11 +31,11 @@ ABOUT = """
 ➥ Name :  Auto Filter V3
     
 ➥ Creator : [MOVIE HUB](
-https://t.me/RWwR02me_Ms3MDU1)
+https://t.me/MoviehubGroups)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/MoviehubGroups)
 """
